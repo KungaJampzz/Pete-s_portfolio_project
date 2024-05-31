@@ -1,1 +1,2 @@
-# Pete-s_portfolio_project
+# Pete-Thinkful-Art
+Simple HTML/CSS Web Page Demo
